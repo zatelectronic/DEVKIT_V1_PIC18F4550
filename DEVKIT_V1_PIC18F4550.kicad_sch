@@ -1,0 +1,210 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "77ce6bdb-a858-4f8c-8062-7b6b036376f3")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 170.18 93.98)
+		(size 46.99 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 0 0 1)
+		)
+		(uuid "6f2ef53e-59c6-42e6-adfe-6dbb430de0a3")
+		(property "Sheetname" "CONEXÕES"
+			(at 185.42 101.6 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2 2)
+					(thickness 0.4)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CONEXÕES.kicad_sch"
+			(at 177.8 109.22 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5 1.5)
+					(thickness 0.3)
+					(bold yes)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DEVKIT_V1_PIC18F4550"
+				(path "/77ce6bdb-a858-4f8c-8062-7b6b036376f3"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 168.91 41.91)
+		(size 48.26 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(fill
+			(color 255 0 0 1)
+		)
+		(uuid "abf8fd17-cad7-4f0f-bec7-974139ae4e4b")
+		(property "Sheetname" "PIC18F4550-IPT"
+			(at 177.8 48.26 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2 2)
+					(thickness 0.4)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MICROCONTROLADOR.kicad_sch"
+			(at 171.45 57.15 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5 1.5)
+					(thickness 0.4)
+					(bold yes)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DEVKIT_V1_PIC18F4550"
+				(path "/77ce6bdb-a858-4f8c-8062-7b6b036376f3"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 96.52 95.25)
+		(size 41.91 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 0 0 1)
+		)
+		(uuid "c6628272-2424-499d-a569-0c8f91c9a8e0")
+		(property "Sheetname" "PROGRAMADOR"
+			(at 106.68 102.87 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2 2)
+					(thickness 0.4)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PROGRAMADOR.kicad_sch"
+			(at 97.79 110.49 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5 1.5)
+					(thickness 0.3)
+					(bold yes)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DEVKIT_V1_PIC18F4550"
+				(path "/77ce6bdb-a858-4f8c-8062-7b6b036376f3"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 96.52 43.18)
+		(size 41.91 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(fill
+			(color 255 0 0 1)
+		)
+		(uuid "cb49362b-c653-4291-bb95-4e76023bcb25")
+		(property "Sheetname" "TYPE-C USB"
+			(at 105.41 49.53 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2 2)
+					(thickness 0.4)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "TYPE-C USB.kicad_sch"
+			(at 99.06 58.42 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.5 1.5)
+					(thickness 0.4)
+					(bold yes)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DEVKIT_V1_PIC18F4550"
+				(path "/77ce6bdb-a858-4f8c-8062-7b6b036376f3"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
