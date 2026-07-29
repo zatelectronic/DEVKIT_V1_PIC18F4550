@@ -2043,11 +2043,11 @@
 		)
 	)
 	(rectangle
-		(start 189.23 66.04)
+		(start 189.23 74.93)
 		(end 232.41 116.84)
 		(stroke
-			(width 0)
-			(type default)
+			(width 0.3)
+			(type dash)
 		)
 		(fill
 			(type none)
@@ -2055,11 +2055,11 @@
 		(uuid "58a1226f-a679-456e-9a13-9af8ea2b24e4")
 	)
 	(rectangle
-		(start 60.96 48.26)
+		(start 60.96 58.42)
 		(end 163.83 132.08)
 		(stroke
 			(width 0.3)
-			(type solid)
+			(type dash)
 		)
 		(fill
 			(type none)
@@ -2068,7 +2068,7 @@
 	)
 	(text "VOLTAGE 3.3V"
 		(exclude_from_sim no)
-		(at 210.82 71.12 0)
+		(at 209.55 71.628 0)
 		(effects
 			(font
 				(size 2.5 2.5)
@@ -2080,7 +2080,7 @@
 	)
 	(text "USB TYPE-C POWER/DATA"
 		(exclude_from_sim no)
-		(at 107.95 53.34 0)
+		(at 109.22 53.594 0)
 		(effects
 			(font
 				(size 2.5 2.5)
