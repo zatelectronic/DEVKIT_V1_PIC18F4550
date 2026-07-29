@@ -5,6 +5,104 @@
 	(uuid "77ce6bdb-a858-4f8c-8062-7b6b036376f3")
 	(paper "A3")
 	(lib_symbols)
+	(polyline
+		(pts
+			(xy 77.47 107.95) (xy 77.47 118.11)
+		)
+		(stroke
+			(width 1)
+			(type solid)
+			(color 255 0 0 1)
+		)
+		(uuid "002db9ff-4d8c-4f49-add7-26cb44e60f2e")
+	)
+	(polyline
+		(pts
+			(xy 77.47 116.84) (xy 77.47 177.8)
+		)
+		(stroke
+			(width 1)
+			(type solid)
+			(color 255 0 0 1)
+		)
+		(uuid "059ea963-31c6-44ee-9979-47a7513c1dd8")
+	)
+	(polyline
+		(pts
+			(xy 146.05 177.8) (xy 146.05 107.95)
+		)
+		(stroke
+			(width 1)
+			(type solid)
+			(color 255 0 0 1)
+		)
+		(uuid "12df6f36-8af4-44e0-ab47-81d5011246c2")
+	)
+	(polyline
+		(pts
+			(xy 76.2 118.11) (xy 77.47 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14b89b9a-9b23-49d0-bc43-6d8f39ca1997")
+	)
+	(polyline
+		(pts
+			(xy 146.05 107.95) (xy 77.47 107.95)
+		)
+		(stroke
+			(width 1)
+			(type solid)
+			(color 255 0 0 1)
+		)
+		(uuid "387f368a-29da-463e-be16-3d53665d7f83")
+	)
+	(polyline
+		(pts
+			(xy 76.2 44.45) (xy 58.42 44.45)
+		)
+		(stroke
+			(width 1)
+			(type solid)
+			(color 255 0 0 1)
+		)
+		(uuid "47f8d636-57bf-4d0a-8f4a-0d4175088278")
+	)
+	(polyline
+		(pts
+			(xy 58.42 44.45) (xy 58.42 142.24)
+		)
+		(stroke
+			(width 1)
+			(type solid)
+			(color 255 0 0 1)
+		)
+		(uuid "78f86c10-b2d5-4837-ab43-1cdece33b100")
+	)
+	(polyline
+		(pts
+			(xy 77.47 177.8) (xy 146.05 177.8)
+		)
+		(stroke
+			(width 1)
+			(type solid)
+			(color 255 0 0 1)
+		)
+		(uuid "b9291923-1a10-4be2-9d4b-a90023a2ea37")
+	)
+	(polyline
+		(pts
+			(xy 58.42 142.24) (xy 77.47 142.24)
+		)
+		(stroke
+			(width 1)
+			(type solid)
+			(color 255 0 0 1)
+		)
+		(uuid "c684b0d0-f386-4f23-84b5-943cf7c767bb")
+	)
 	(image
 		(at 198.12 134.62)
 		(scale 1.5609)
@@ -4681,6 +4779,18 @@
 			"AAAAAAAAgPMoNgEAAAAAAAAAAAA4j2ITAAAAAAAAAAAAgPMoNgEAAAAAAAAAAAA4L5Ri22MAAAAA"
 			"AAAAAAAAgPtixiYAAAAAAAAAAAAA5/0/cMGUAzNmIaYAAAAASUVORK5CYII="
 		)
+	)
+	(group ""
+		(uuid "4ceb6697-a102-4f4a-85aa-64909afc450d")
+		(members "059ea963-31c6-44ee-9979-47a7513c1dd8" "12df6f36-8af4-44e0-ab47-81d5011246c2"
+			"387f368a-29da-463e-be16-3d53665d7f83" "47f8d636-57bf-4d0a-8f4a-0d4175088278"
+			"78f86c10-b2d5-4837-ab43-1cdece33b100" "b9291923-1a10-4be2-9d4b-a90023a2ea37"
+			"c684b0d0-f386-4f23-84b5-943cf7c767bb"
+		)
+	)
+	(group ""
+		(uuid "72cbd271-5eae-4963-ae66-8fcb14c0fdbe")
+		(members "002db9ff-4d8c-4f49-add7-26cb44e60f2e" "4ceb6697-a102-4f4a-85aa-64909afc450d")
 	)
 	(sheet
 		(at 76.2 210.82)
