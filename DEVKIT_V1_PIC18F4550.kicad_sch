@@ -3,109 +3,1121 @@
 	(generator "eeschema")
 	(generator_version "10.0")
 	(uuid "77ce6bdb-a858-4f8c-8062-7b6b036376f3")
-	(paper "A3")
+	(paper "A2")
+	(title_block
+		(title "DEVKIT V1 PIC18F4550")
+		(date "2026-11-11")
+		(rev "R01")
+		(company "ZAT ELECTRONIC")
+		(comment 1 "Kenneth Zat")
+		(comment 2 "Kenneth Zat (CEO)")
+		(comment 3 "DEVKIT V1 PIC18F4550")
+	)
 	(lib_symbols)
-	(polyline
-		(pts
-			(xy 77.47 107.95) (xy 77.47 118.11)
-		)
+	(rectangle
+		(start 30.48 264.16)
+		(end 167.64 274.32)
 		(stroke
-			(width 1)
+			(width 0.6)
 			(type solid)
-			(color 255 0 0 1)
+			(color 163 45 45 1)
 		)
-		(uuid "002db9ff-4d8c-4f49-add7-26cb44e60f2e")
+		(fill
+			(type color)
+			(color 163 45 45 1)
+		)
+		(uuid "079d9cc4-5f3e-44b6-854a-19022ff70fc8")
+	)
+	(rectangle
+		(start 30.48 160.02)
+		(end 167.64 170.18)
+		(stroke
+			(width 0.6)
+			(type solid)
+			(color 18 110 90 1)
+		)
+		(fill
+			(type color)
+			(color 18 110 90 1)
+		)
+		(uuid "22f07513-fccf-4014-8a02-82697af32411")
+	)
+	(rectangle
+		(start 176.53 83.82)
+		(end 234.95 129.54)
+		(stroke
+			(width 0.4)
+			(type solid)
+			(color 255 255 255 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "23101889-9c63-4dea-bed1-fd70a76d80d5")
+	)
+	(rectangle
+		(start 275.59 83.82)
+		(end 334.01 129.54)
+		(stroke
+			(width 0.4)
+			(type solid)
+			(color 255 255 255 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "33ddabcf-925c-408b-bc4f-5089b604601a")
+	)
+	(rectangle
+		(start 30.48 55.88)
+		(end 167.64 66.04)
+		(stroke
+			(width 0.6)
+			(type solid)
+			(color 31 78 140 1)
+		)
+		(fill
+			(type color)
+			(color 31 78 140 1)
+		)
+		(uuid "346409b3-8062-484b-9aa4-d53598c0da6c")
+	)
+	(rectangle
+		(start 177.8 369.57)
+		(end 180.34 372.11)
+		(stroke
+			(width 0.3)
+			(type solid)
+			(color 163 45 45 1)
+		)
+		(fill
+			(type color)
+			(color 163 45 45 1)
+		)
+		(uuid "394d6e93-8bd7-4b5b-b3b8-5afccf96d9a1")
 	)
 	(polyline
 		(pts
-			(xy 77.47 116.84) (xy 77.47 177.8)
+			(xy 266.135 316.346) (xy 269.24 314.96) (xy 266.135 313.574)
 		)
 		(stroke
-			(width 1)
+			(width 0.8)
 			(type solid)
-			(color 255 0 0 1)
+			(color 163 45 45 1)
 		)
-		(uuid "059ea963-31c6-44ee-9979-47a7513c1dd8")
+		(fill
+			(type none)
+		)
+		(uuid "47ad8477-bd08-45f1-8320-077ebb7a806d")
+	)
+	(rectangle
+		(start 30.48 55.88)
+		(end 381 152.4)
+		(stroke
+			(width 0.6)
+			(type dash)
+			(color 31 78 140 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "5cc6de58-34e5-4b18-a95e-348c19df3b19")
+	)
+	(rectangle
+		(start 116.84 369.57)
+		(end 119.38 372.11)
+		(stroke
+			(width 0.3)
+			(type solid)
+			(color 18 110 90 1)
+		)
+		(fill
+			(type color)
+			(color 18 110 90 1)
+		)
+		(uuid "79c87112-cb31-4f05-b85c-b67118849f35")
 	)
 	(polyline
 		(pts
-			(xy 146.05 177.8) (xy 146.05 107.95)
+			(xy 249.625 372.226) (xy 252.73 370.84) (xy 249.625 369.454)
 		)
 		(stroke
-			(width 1)
+			(width 0.8)
 			(type solid)
-			(color 255 0 0 1)
+			(color 18 110 90 1)
 		)
-		(uuid "12df6f36-8af4-44e0-ab47-81d5011246c2")
+		(fill
+			(type none)
+		)
+		(uuid "7db65761-47ee-4007-b033-40acc1d7b4c6")
+	)
+	(rectangle
+		(start 30.48 160.02)
+		(end 381 256.54)
+		(stroke
+			(width 0.6)
+			(type dash)
+			(color 18 110 90 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "8e730beb-4109-4bd9-ad02-1a5e2710c475")
 	)
 	(polyline
 		(pts
-			(xy 76.2 118.11) (xy 77.47 118.11)
+			(xy 266.135 212.206) (xy 269.24 210.82) (xy 266.135 209.434)
 		)
 		(stroke
-			(width 0)
-			(type default)
+			(width 0.8)
+			(type solid)
+			(color 18 110 90 1)
 		)
-		(uuid "14b89b9a-9b23-49d0-bc43-6d8f39ca1997")
+		(fill
+			(type none)
+		)
+		(uuid "9ff5e912-c1d3-487a-abfc-98705905ff7c")
+	)
+	(rectangle
+		(start 55.88 369.57)
+		(end 58.42 372.11)
+		(stroke
+			(width 0.3)
+			(type solid)
+			(color 31 78 140 1)
+		)
+		(fill
+			(type color)
+			(color 31 78 140 1)
+		)
+		(uuid "b072fb2f-a63a-470b-a416-b0ddf6e542ef")
+	)
+	(rectangle
+		(start 391.16 55.88)
+		(end 528.32 66.04)
+		(stroke
+			(width 0.6)
+			(type solid)
+			(color 25 30 35 1)
+		)
+		(fill
+			(type color)
+			(color 25 30 35 1)
+		)
+		(uuid "b80c208a-95ab-4679-932c-78fbb7abd626")
 	)
 	(polyline
 		(pts
-			(xy 146.05 107.95) (xy 77.47 107.95)
+			(xy 266.135 108.066) (xy 269.24 106.68) (xy 266.135 105.294)
 		)
 		(stroke
-			(width 1)
+			(width 0.8)
 			(type solid)
-			(color 255 0 0 1)
+			(color 31 78 140 1)
 		)
-		(uuid "387f368a-29da-463e-be16-3d53665d7f83")
+		(fill
+			(type none)
+		)
+		(uuid "d1c855d7-3537-4eed-99b1-587757c05fc4")
+	)
+	(rectangle
+		(start 176.53 187.96)
+		(end 234.95 233.68)
+		(stroke
+			(width 0.4)
+			(type solid)
+			(color 255 255 255 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "dfba06e0-6739-4fb3-b2fc-e81834990aa5")
+	)
+	(rectangle
+		(start 176.53 292.1)
+		(end 234.95 337.82)
+		(stroke
+			(width 0.4)
+			(type solid)
+			(color 255 255 255 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "dfc5b621-2fa7-41fe-83d0-cc294d85a5ae")
+	)
+	(rectangle
+		(start 30.48 264.16)
+		(end 381 360.68)
+		(stroke
+			(width 0.6)
+			(type dash)
+			(color 163 45 45 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "f0e9dde6-0d06-41c0-8f4f-435774ce8571")
+	)
+	(rectangle
+		(start 391.16 55.88)
+		(end 563.88 360.68)
+		(stroke
+			(width 0.6)
+			(type dash)
+			(color 96 104 110 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "f44a6f49-8ae1-40e1-bcff-4e73a54e4084")
+	)
+	(text "PÁGINA"
+		(exclude_from_sim no)
+		(at 205.74 199.82 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 3.5 3.5)
+				(thickness 0.7)
+				(bold yes)
+				(color 255 255 255 1)
+			)
+		)
+		(uuid "02daeeea-584b-45b8-9bbf-1eab29739868")
+	)
+	(text "•  AMS1117-3.3 → +3,3V para o header"
+		(exclude_from_sim no)
+		(at 38.1 311.33 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 2.8 2.8)
+				(color 95 100 105 1)
+			)
+			(justify left)
+		)
+		(uuid "090e0a97-9950-48e6-bfe1-bb1047512460")
+	)
+	(text "•  proteção SS1P3L contra retorno"
+		(exclude_from_sim no)
+		(at 38.1 304.98 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 2.8 2.8)
+				(color 95 100 105 1)
+			)
+			(justify left)
+		)
+		(uuid "0d45d86a-b398-4bde-a04f-878a8b9aad59")
+	)
+	(text "J11 USB-C · U2 AMS1117 · 13 comp."
+		(exclude_from_sim no)
+		(at 205.74 349.26 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 2.5 2.5)
+				(color 95 100 105 1)
+			)
+		)
+		(uuid "0e55c91c-5f17-411a-af46-7017108f088d")
+	)
+	(text "PIC18F4550  ·  Esquema elétrico do kit de desenvolvimento"
+		(exclude_from_sim no)
+		(at 30.48 39 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 5 5)
+				(thickness 1)
+				(bold yes)
+				(color 9 64 52 1)
+			)
+			(justify left)
+		)
+		(uuid "2d8d8ef3-0602-474f-bc02-b89a4ae5bc96")
+	)
+	(text "fluxo de sinal / energia"
+		(exclude_from_sim no)
+		(at 256.54 370.84 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 3 3)
+				(color 95 100 105 1)
+			)
+			(justify left)
+		)
+		(uuid "300fbb9c-93a2-43c6-adc7-645b8ad996ac")
+	)
+	(text "Energia e USB:"
+		(exclude_from_sim no)
+		(at 38.1 292.28 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 2.8 2.8)
+				(thickness 0.56)
+				(bold yes)
+				(color 25 30 35 1)
+			)
+			(justify left)
+		)
+		(uuid "347d1485-613d-4636-90de-212fbb9cbdc4")
+	)
+	(text "2 · CONEXÕES · GPIO"
+		(exclude_from_sim no)
+		(at 34.925 165.1 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 4 4)
+				(thickness 0.8)
+				(bold yes)
+				(color 255 255 255 1)
+			)
+			(justify left)
+		)
+		(uuid "34b5a1ff-4ff3-484c-99c9-d1859a5a93e0")
+	)
+	(text "PIC18F4550-I/PT · USB-C nativo · ICSP · 5 V / 3,3 V · RESET / BOOT · GPIO completo"
+		(exclude_from_sim no)
+		(at 563.88 34.5 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 3 3)
+				(color 95 100 105 1)
+			)
+			(justify right)
+		)
+		(uuid "39f29da7-50cd-40c4-a73c-b684d69ecb3a")
+	)
+	(text "•  LED de alimentação"
+		(exclude_from_sim no)
+		(at 38.1 317.68 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 2.8 2.8)
+				(color 95 100 105 1)
+			)
+			(justify left)
+		)
+		(uuid "3b3f05d8-4330-4610-8aa2-6b9cf6f15283")
+	)
+	(text "1 · CONTROLE E PROGRAMAÇÃO"
+		(exclude_from_sim no)
+		(at 34.925 60.96 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 4 4)
+				(thickness 0.8)
+				(bold yes)
+				(color 255 255 255 1)
+			)
+			(justify left)
+		)
+		(uuid "3ffe33a2-e08f-4e1c-93c6-7ddeaa8ee053")
+	)
+	(text "Conectores:"
+		(exclude_from_sim no)
+		(at 38.1 188.14 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 2.8 2.8)
+				(thickness 0.56)
+				(bold yes)
+				(color 25 30 35 1)
+			)
+			(justify left)
+		)
+		(uuid "400b5d3c-41e3-4af4-8a95-4e06f208abba")
+	)
+	(text "U1 PIC18F4550 · Y1 8 MHz · 11 comp."
+		(exclude_from_sim no)
+		(at 205.74 140.98 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 2.5 2.5)
+				(color 95 100 105 1)
+			)
+		)
+		(uuid "48afdc79-8a2b-4009-8f58-9d6c54cde23e")
+	)
+	(text "+5V · GND · RC4 / RC5 (D- / D+) · VBUS_OUT  →  MCU (pág. 02)"
+		(exclude_from_sim no)
+		(at 271.78 315.96 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 2.5 2.5)
+				(thickness 0.5)
+				(bold yes)
+				(color 163 45 45 1)
+			)
+			(justify left)
+		)
+		(uuid "49ff96f3-fc35-4835-945a-949378553e71")
+	)
+	(text "04"
+		(exclude_from_sim no)
+		(at 205.74 224.02 0)
+		(effects
+			(font
+				(face "Arial Black")
+				(size 18 18)
+				(thickness 3.6)
+				(bold yes)
+				(color 255 255 255 1)
+			)
+		)
+		(uuid "539fa9d3-9f6c-4160-8e7c-a3ca17d870d6")
+	)
+	(text "Especificações:"
+		(exclude_from_sim no)
+		(at 398.78 170.18 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 2.8 2.8)
+				(thickness 0.56)
+				(bold yes)
+				(color 25 30 35 1)
+			)
+			(justify left)
+		)
+		(uuid "558965e4-553c-4331-b745-4c0ea9765ee2")
+	)
+	(text "•  saídas: +5V e +3,3V (AMS1117-3.3)"
+		(exclude_from_sim no)
+		(at 398.78 189.23 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 2.8 2.8)
+				(color 95 100 105 1)
+			)
+			(justify left)
+		)
+		(uuid "5a6925ab-283f-4ce9-a5c0-e280f7204e53")
+	)
+	(text "•  repositório: github.com/zatelectronic/DEVKIT_V1_PIC18F4550"
+		(exclude_from_sim no)
+		(at 398.78 201.93 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 2.8 2.8)
+				(color 95 100 105 1)
+			)
+			(justify left)
+		)
+		(uuid "60fc065b-e503-4869-a2b4-8489ba9e104c")
+	)
+	(text "•  +5V entrada / saída · +3,3V saída"
+		(exclude_from_sim no)
+		(at 38.1 200.84 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 2.8 2.8)
+				(color 95 100 105 1)
+			)
+			(justify left)
+		)
+		(uuid "6411c3b1-8902-4a8a-a9e8-dfb0277298c0")
+	)
+	(text "controle e programação"
+		(exclude_from_sim no)
+		(at 60.325 370.84 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 3 3)
+				(color 95 100 105 1)
+			)
+			(justify left)
+		)
+		(uuid "641313ff-e66e-4ef2-b592-f772ad8105b3")
+	)
+	(text "•  PORT A, B, C, D, E em barras de pinos"
+		(exclude_from_sim no)
+		(at 38.1 194.49 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 2.8 2.8)
+				(color 95 100 105 1)
+			)
+			(justify left)
+		)
+		(uuid "65138500-ec52-4b65-8161-291ca5bcce6a")
+	)
+	(text "•  RESET (MCLR) e BOOT (RB4) · LED em RD0"
+		(exclude_from_sim no)
+		(at 38.1 103.05 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 2.8 2.8)
+				(color 95 100 105 1)
+			)
+			(justify left)
+		)
+		(uuid "6770e416-ac63-4282-925d-97b769da3a84")
+	)
+	(text "PÁGINA"
+		(exclude_from_sim no)
+		(at 205.74 303.96 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 3.5 3.5)
+				(thickness 0.7)
+				(bold yes)
+				(color 255 255 255 1)
+			)
+		)
+		(uuid "71534779-41fa-4bba-accc-50cd7e0277cc")
+	)
+	(text "MCLR · PGD · PGC · PGM"
+		(exclude_from_sim no)
+		(at 255.27 103.48 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 2 2)
+				(thickness 0.4)
+				(bold yes)
+				(color 31 78 140 1)
+			)
+		)
+		(uuid "77489414-5ae0-40e9-ae22-1f24c802795b")
+	)
+	(text "•  PIC18F4550-I/PT TQFP-44 a 5 V"
+		(exclude_from_sim no)
+		(at 38.1 90.35 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 2.8 2.8)
+				(color 95 100 105 1)
+			)
+			(justify left)
+		)
+		(uuid "7e8cb522-30af-41be-ba4e-a922a5850b36")
+	)
+	(text "O número no cartão é a página do PDF. Cada cartão abre a folha correspondente."
+		(exclude_from_sim no)
+		(at 30.48 379.73 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 2.5 2.5)
+				(color 95 100 105 1)
+			)
+			(justify left)
+		)
+		(uuid "838bdf0b-7761-4dd7-b50b-be424d2817a1")
+	)
+	(text "•  USB4105 Type-C (USB 2.0 device)"
+		(exclude_from_sim no)
+		(at 38.1 298.63 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 2.8 2.8)
+				(color 95 100 105 1)
+			)
+			(justify left)
+		)
+		(uuid "86f03f6a-2244-4a36-9af9-a2a81a713434")
+	)
+	(text "Capa + 4 folhas  ·  40 componentes  ·  leitura: controle → GPIO → USB / energia"
+		(exclude_from_sim no)
+		(at 563.88 40.5 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 3 3)
+				(color 95 100 105 1)
+			)
+			(justify right)
+		)
+		(uuid "875315d6-4a06-4003-acf8-53a8df43358e")
+	)
+	(text "PIC18F4550 → cristal 8 MHz · RESET / BOOT · ICSP"
+		(exclude_from_sim no)
+		(at 375.92 60.96 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 3 3)
+				(color 95 100 105 1)
+			)
+			(justify right)
+		)
+		(uuid "93d187c5-ee19-450f-a190-33f7a7355235")
+	)
+	(text "PÁGINA"
+		(exclude_from_sim no)
+		(at 304.8 95.68 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 3.5 3.5)
+				(thickness 0.7)
+				(bold yes)
+				(color 255 255 255 1)
+			)
+		)
+		(uuid "9bc4a974-4935-417f-a8b8-e89e45f3a208")
+	)
+	(text "VISTA 3D DA PLACA"
+		(exclude_from_sim no)
+		(at 395.605 60.96 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 4 4)
+				(thickness 0.8)
+				(bold yes)
+				(color 255 255 255 1)
+			)
+			(justify left)
+		)
+		(uuid "a7913f74-e62b-442c-b215-04c916bac9b8")
+	)
+	(text "•  4 furos M2.5"
+		(exclude_from_sim no)
+		(at 38.1 207.19 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 2.8 2.8)
+				(color 95 100 105 1)
+			)
+			(justify left)
+		)
+		(uuid "a8b77ef0-b49e-4a64-afca-d6ba998ca771")
+	)
+	(text "USB-C VBUS → SS1P3L → +5V → AMS1117 → +3,3V"
+		(exclude_from_sim no)
+		(at 375.92 269.24 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 3 3)
+				(color 95 100 105 1)
+			)
+			(justify right)
+		)
+		(uuid "a9baa083-8c7a-4bef-9f35-13bf75b35878")
+	)
+	(text "PÁGINA"
+		(exclude_from_sim no)
+		(at 205.74 95.68 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 3.5 3.5)
+				(thickness 0.7)
+				(bold yes)
+				(color 255 255 255 1)
+			)
+		)
+		(uuid "b298f0f6-bfe6-4c99-87d5-15637a704aaf")
+	)
+	(text "J3–J10 · H1–H4 · 12 comp."
+		(exclude_from_sim no)
+		(at 205.74 245.12 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 2.5 2.5)
+				(color 95 100 105 1)
+			)
+		)
+		(uuid "b36e5c0c-4248-4b57-83f5-2d50fa7ba1cc")
+	)
+	(text "J1 ICSP · J2 PGM · 4 comp."
+		(exclude_from_sim no)
+		(at 304.8 140.98 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 2.5 2.5)
+				(color 95 100 105 1)
+			)
+		)
+		(uuid "b3ebc350-49f9-47de-bf8c-d994b68bda20")
+	)
+	(text "03"
+		(exclude_from_sim no)
+		(at 304.8 119.88 0)
+		(effects
+			(font
+				(face "Arial Black")
+				(size 18 18)
+				(thickness 3.6)
+				(bold yes)
+				(color 255 255 255 1)
+			)
+		)
+		(uuid "b91f9eec-b90a-4879-ae09-a044fa49ed8c")
+	)
+	(text "ZAT ELECTRONIC"
+		(exclude_from_sim no)
+		(at 563.88 26 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 4.5 4.5)
+				(thickness 0.9)
+				(bold yes)
+				(color 25 30 35 1)
+			)
+			(justify right)
+		)
+		(uuid "bf1c8cc0-9ca4-443a-a3f0-aad3cd7ce525")
+	)
+	(text "05"
+		(exclude_from_sim no)
+		(at 205.74 328.16 0)
+		(effects
+			(font
+				(face "Arial Black")
+				(size 18 18)
+				(thickness 3.6)
+				(bold yes)
+				(color 255 255 255 1)
+			)
+		)
+		(uuid "c0743ee2-0c4b-43be-95a9-07283286e676")
+	)
+	(text "Controle:"
+		(exclude_from_sim no)
+		(at 38.1 84 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 2.8 2.8)
+				(thickness 0.56)
+				(bold yes)
+				(color 25 30 35 1)
+			)
+			(justify left)
+		)
+		(uuid "d99d6eb7-a319-4ad6-a375-9976b6153c67")
+	)
+	(text "3 · USB-C E ALIMENTAÇÃO"
+		(exclude_from_sim no)
+		(at 34.925 269.24 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 4 4)
+				(thickness 0.8)
+				(bold yes)
+				(color 255 255 255 1)
+			)
+			(justify left)
+		)
+		(uuid "dbf08174-0073-4a18-b654-1a0065d1267c")
+	)
+	(text "•  programação: ICSP 6 pinos (PICkit 3) · LVP via J2"
+		(exclude_from_sim no)
+		(at 398.78 195.58 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 2.8 2.8)
+				(color 95 100 105 1)
+			)
+			(justify left)
+		)
+		(uuid "ddb17b76-c11f-4f1f-8525-d65364166506")
+	)
+	(text "portas RA · RB · RC · RD · RE + alimentação em barras 2,54 mm"
+		(exclude_from_sim no)
+		(at 375.92 165.1 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 3 3)
+				(color 95 100 105 1)
+			)
+			(justify right)
+		)
+		(uuid "de49dab4-6706-4d10-939b-1b9884c04670")
+	)
+	(text "RA0–RA5 · RB0–RB3 · RC0–RC2 · RC6–RC7 · RD0–RD7 · \nRE0–RE2  ↔  MCU (pág. 02)"
+		(exclude_from_sim no)
+		(at 271.78 211.82 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 2.5 2.5)
+				(thickness 0.5)
+				(bold yes)
+				(color 18 110 90 1)
+			)
+			(justify left)
+		)
+		(uuid "e34cd26c-841f-4e09-a920-af94c04d1d52")
+	)
+	(text "•  PIC18F4550-I/PT · 32 KB Flash · 2 KB RAM · USB 2.0 FS"
+		(exclude_from_sim no)
+		(at 398.78 176.53 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 2.8 2.8)
+				(color 95 100 105 1)
+			)
+			(justify left)
+		)
+		(uuid "e3c75b53-0ca9-427e-b7de-b476f31fa340")
+	)
+	(text "conexões / GPIO"
+		(exclude_from_sim no)
+		(at 121.285 370.84 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 3 3)
+				(color 95 100 105 1)
+			)
+			(justify left)
+		)
+		(uuid "e873d74b-9cd5-42f7-874c-07dfd3beb22f")
+	)
+	(text "DEVKIT V1 PIC18F4550"
+		(exclude_from_sim no)
+		(at 30.48 26 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 10 10)
+				(thickness 2)
+				(bold yes)
+				(color 25 30 35 1)
+			)
+			(justify left)
+		)
+		(uuid "e8f74009-a31f-4c90-b21e-ababb98f5f81")
+	)
+	(text "•  cristal 8 MHz + PLL 96 MHz (USB FS)"
+		(exclude_from_sim no)
+		(at 38.1 96.7 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 2.8 2.8)
+				(color 95 100 105 1)
+			)
+			(justify left)
+		)
+		(uuid "ea95a4f3-b98e-4858-ab67-551e1931f903")
+	)
+	(text "USB e energia"
+		(exclude_from_sim no)
+		(at 182.245 370.84 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 3 3)
+				(color 95 100 105 1)
+			)
+			(justify left)
+		)
+		(uuid "ec60952c-9b27-4786-9531-2fac3826be3e")
+	)
+	(text "•  ICSP PICkit 3 + jumper LVP (PGM)"
+		(exclude_from_sim no)
+		(at 38.1 109.4 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 2.8 2.8)
+				(color 95 100 105 1)
+			)
+			(justify left)
+		)
+		(uuid "ee6920af-54b8-4e0d-b836-8973ea0f7e84")
+	)
+	(text "•  alimentação: USB-C (VBUS) ou J8 +5V"
+		(exclude_from_sim no)
+		(at 398.78 182.88 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 2.8 2.8)
+				(color 95 100 105 1)
+			)
+			(justify left)
+		)
+		(uuid "eff0ef1e-992a-4535-bc06-fbd2a4e077c9")
+	)
+	(text "02"
+		(exclude_from_sim no)
+		(at 205.74 119.88 0)
+		(effects
+			(font
+				(face "Arial Black")
+				(size 18 18)
+				(thickness 3.6)
+				(bold yes)
+				(color 255 255 255 1)
+			)
+		)
+		(uuid "f920bdae-d106-4b6e-96b4-5a1baad544fc")
+	)
+	(text "LEGENDA"
+		(exclude_from_sim no)
+		(at 30.48 370.84 0)
+		(effects
+			(font
+				(face "Arial")
+				(size 3 3)
+				(thickness 0.6)
+				(bold yes)
+				(color 25 30 35 1)
+			)
+			(justify left)
+		)
+		(uuid "ff79b99b-12ca-4a60-ab0d-f2d8848977ae")
 	)
 	(polyline
 		(pts
-			(xy 76.2 44.45) (xy 58.42 44.45)
+			(xy 193.04 98.38) (xy 218.44 98.38)
 		)
 		(stroke
-			(width 1)
+			(width 0.4)
 			(type solid)
-			(color 255 0 0 1)
+			(color 255 255 255 1)
 		)
-		(uuid "47f8d636-57bf-4d0a-8f4a-0d4175088278")
+		(uuid "20dca3e3-170a-44b0-b162-1fab754a13d1")
 	)
 	(polyline
 		(pts
-			(xy 58.42 44.45) (xy 58.42 142.24)
+			(xy 241.3 314.96) (xy 269.24 314.96)
 		)
 		(stroke
-			(width 1)
+			(width 0.8)
 			(type solid)
-			(color 255 0 0 1)
+			(color 163 45 45 1)
 		)
-		(uuid "78f86c10-b2d5-4837-ab43-1cdece33b100")
+		(uuid "2c36c5b2-fe97-498f-8cab-403fe85eb278")
 	)
 	(polyline
 		(pts
-			(xy 77.47 177.8) (xy 146.05 177.8)
+			(xy 193.04 306.66) (xy 218.44 306.66)
 		)
 		(stroke
-			(width 1)
+			(width 0.4)
 			(type solid)
-			(color 255 0 0 1)
+			(color 255 255 255 1)
 		)
-		(uuid "b9291923-1a10-4be2-9d4b-a90023a2ea37")
+		(uuid "4c952ad0-dd80-407a-b4ce-6bbadeba8965")
 	)
 	(polyline
 		(pts
-			(xy 58.42 142.24) (xy 77.47 142.24)
+			(xy 30.48 47) (xy 208.28 47)
 		)
 		(stroke
-			(width 1)
+			(width 1.2)
 			(type solid)
-			(color 255 0 0 1)
+			(color 31 78 140 1)
 		)
-		(uuid "c684b0d0-f386-4f23-84b5-943cf7c767bb")
+		(uuid "565ba88c-297d-428e-ba56-7d6c96a7bee9")
+	)
+	(polyline
+		(pts
+			(xy 386.08 47) (xy 563.88 47)
+		)
+		(stroke
+			(width 1.2)
+			(type solid)
+			(color 163 45 45 1)
+		)
+		(uuid "6c4956c6-1987-443d-9e3d-4063e2b6e3ac")
+	)
+	(polyline
+		(pts
+			(xy 208.28 47) (xy 386.08 47)
+		)
+		(stroke
+			(width 1.2)
+			(type solid)
+			(color 18 110 90 1)
+		)
+		(uuid "b7412dd7-094c-48b5-a068-496df574e0ae")
+	)
+	(polyline
+		(pts
+			(xy 241.3 210.82) (xy 269.24 210.82)
+		)
+		(stroke
+			(width 0.8)
+			(type solid)
+			(color 18 110 90 1)
+		)
+		(uuid "c3b3c8f5-0fd7-4d5e-8327-a5b6838341bc")
+	)
+	(polyline
+		(pts
+			(xy 241.3 106.68) (xy 269.24 106.68)
+		)
+		(stroke
+			(width 0.8)
+			(type solid)
+			(color 31 78 140 1)
+		)
+		(uuid "c3f43be4-6c13-4bc9-b927-fd0f84c4d8af")
+	)
+	(polyline
+		(pts
+			(xy 292.1 98.38) (xy 317.5 98.38)
+		)
+		(stroke
+			(width 0.4)
+			(type solid)
+			(color 255 255 255 1)
+		)
+		(uuid "e871786a-4be2-46eb-a553-825bec670b75")
+	)
+	(polyline
+		(pts
+			(xy 193.04 202.52) (xy 218.44 202.52)
+		)
+		(stroke
+			(width 0.4)
+			(type solid)
+			(color 255 255 255 1)
+		)
+		(uuid "ed9df7e3-5bfb-4fcb-93b5-a536077aa6b8")
+	)
+	(polyline
+		(pts
+			(xy 240.03 370.84) (xy 252.73 370.84)
+		)
+		(stroke
+			(width 0.8)
+			(type solid)
+			(color 18 110 90 1)
+		)
+		(uuid "fdb2f074-afbf-48d0-85f0-b75eaf4a332c")
 	)
 	(image
-		(at 198.12 134.62)
-		(scale 1.5609)
+		(at 477.52 116.84)
+		(scale 1.02)
 		(uuid "bd244dbb-a035-4968-bf0f-ed2fe3d46f03")
 		(data "iVBORw0KGgoAAAANSUhEUgAABzYAAAP5CAYAAAB0KMmiAAAABHNCSVQICAgIfAhkiAAAIABJREFU"
 			"eJzs3Xl0HOWdN/pvdVdvam3WbnmRWYwJWTAXZnDwXDPvPZCQC7GTwDB5wWT8zhku3JsAjhNMZoAQ"
@@ -4780,155 +5792,49 @@
 			"AAAAAAAAgPtixiYAAAAAAAAAAAAA5/0/cMGUAzNmIaYAAAAASUVORK5CYII="
 		)
 	)
-	(group ""
-		(uuid "4ceb6697-a102-4f4a-85aa-64909afc450d")
-		(members "059ea963-31c6-44ee-9979-47a7513c1dd8" "12df6f36-8af4-44e0-ab47-81d5011246c2"
-			"387f368a-29da-463e-be16-3d53665d7f83" "47f8d636-57bf-4d0a-8f4a-0d4175088278"
-			"78f86c10-b2d5-4837-ab43-1cdece33b100" "b9291923-1a10-4be2-9d4b-a90023a2ea37"
-			"c684b0d0-f386-4f23-84b5-943cf7c767bb"
-		)
-	)
-	(group ""
-		(uuid "72cbd271-5eae-4963-ae66-8fcb14c0fdbe")
-		(members "002db9ff-4d8c-4f49-add7-26cb44e60f2e" "4ceb6697-a102-4f4a-85aa-64909afc450d")
-	)
 	(sheet
-		(at 76.2 210.82)
-		(size 16.51 20.32)
+		(at 173.99 185.42)
+		(size 63.5 50.8)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(stroke
-			(width 0.1524)
+			(width 0.8)
 			(type solid)
+			(color 9 64 52 1)
 		)
 		(fill
-			(color 0 0 0 0)
+			(color 18 110 90 1)
 		)
 		(uuid "6f2ef53e-59c6-42e6-adfe-6dbb430de0a3")
-		(property "Sheetname" "CONEXÕES"
-			(at 75.692 209.804 0)
+		(property "Sheetname" "CONEXOES"
+			(at 205.74 182.88 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 2 2)
-					(thickness 0.4)
+					(face "Arial")
+					(size 5 5)
+					(thickness 1)
 					(bold yes)
+					(color 25 30 35 1)
 				)
-				(justify left bottom)
+				(justify bottom)
 			)
 		)
-		(property "Sheetfile" "CONEXÕES.kicad_sch"
-			(at 69.342 232.918 0)
+		(property "Sheetfile" "CONEXOES.kicad_sch"
+			(at 205.74 238.76 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.5 1.5)
-					(thickness 0.3)
-					(bold yes)
+					(face "Arial")
+					(size 2.5 2.5)
+					(thickness 0.375)
+					(color 95 100 105 1)
 				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "DEVKIT_V1_PIC18F4550"
-				(path "/77ce6bdb-a858-4f8c-8062-7b6b036376f3"
-					(page "5")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 294.64 35.56)
-		(size 25.4 20.32)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(stroke
-			(width 0.5)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "abf8fd17-cad7-4f0f-bec7-974139ae4e4b")
-		(property "Sheetname" "PIC18F4550-IPT"
-			(at 294.132 34.29 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 2 2)
-					(thickness 0.4)
-					(bold yes)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "MICROCONTROLADOR.kicad_sch"
-			(at 285.75 58.166 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5 1.5)
-					(thickness 0.4)
-					(bold yes)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "DEVKIT_V1_PIC18F4550"
-				(path "/77ce6bdb-a858-4f8c-8062-7b6b036376f3"
-					(page "2")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 297.18 212.09)
-		(size 22.86 20.32)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "c6628272-2424-499d-a569-0c8f91c9a8e0")
-		(property "Sheetname" "PROGRAMADOR"
-			(at 297.18 211.074 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 2 2)
-					(thickness 0.4)
-					(bold yes)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "PROGRAMADOR.kicad_sch"
-			(at 290.322 234.442 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.5 1.5)
-					(thickness 0.3)
-					(bold yes)
-				)
-				(justify left top)
+				(justify top)
 			)
 		)
 		(instances
@@ -4940,50 +5846,160 @@
 		)
 	)
 	(sheet
-		(at 76.2 35.56)
-		(size 19.05 20.32)
+		(at 173.99 81.28)
+		(size 63.5 50.8)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(stroke
-			(width 0.5)
+			(width 0.8)
 			(type solid)
+			(color 17 44 88 1)
 		)
 		(fill
-			(color 0 0 0 0)
+			(color 31 78 140 1)
 		)
-		(uuid "cb49362b-c653-4291-bb95-4e76023bcb25")
-		(property "Sheetname" "TYPE-C USB"
-			(at 75.692 33.528 0)
+		(uuid "abf8fd17-cad7-4f0f-bec7-974139ae4e4b")
+		(property "Sheetname" "MCU"
+			(at 205.74 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 2 2)
-					(thickness 0.4)
+					(face "Arial")
+					(size 5 5)
+					(thickness 1)
 					(bold yes)
+					(color 25 30 35 1)
 				)
-				(justify left bottom)
+				(justify bottom)
 			)
 		)
-		(property "Sheetfile" "TYPE-C USB.kicad_sch"
-			(at 68.072 57.15 0)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 205.74 134.62 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
-					(size 1.5 1.5)
-					(thickness 0.4)
-					(bold yes)
+					(face "Arial")
+					(size 2.5 2.5)
+					(thickness 0.375)
+					(color 95 100 105 1)
 				)
-				(justify left top)
+				(justify top)
+			)
+		)
+		(instances
+			(project "DEVKIT_V1_PIC18F4550"
+				(path "/77ce6bdb-a858-4f8c-8062-7b6b036376f3"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 273.05 81.28)
+		(size 63.5 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.8)
+			(type solid)
+			(color 17 44 88 1)
+		)
+		(fill
+			(color 31 78 140 1)
+		)
+		(uuid "c6628272-2424-499d-a569-0c8f91c9a8e0")
+		(property "Sheetname" "PROGRAMADOR"
+			(at 304.8 78.74 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(face "Arial")
+					(size 5 5)
+					(thickness 1)
+					(bold yes)
+					(color 25 30 35 1)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Sheetfile" "PROGRAMADOR.kicad_sch"
+			(at 304.8 134.62 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(face "Arial")
+					(size 2.5 2.5)
+					(thickness 0.375)
+					(color 95 100 105 1)
+				)
+				(justify top)
 			)
 		)
 		(instances
 			(project "DEVKIT_V1_PIC18F4550"
 				(path "/77ce6bdb-a858-4f8c-8062-7b6b036376f3"
 					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 173.99 289.56)
+		(size 63.5 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.8)
+			(type solid)
+			(color 110 25 25 1)
+		)
+		(fill
+			(color 163 45 45 1)
+		)
+		(uuid "cb49362b-c653-4291-bb95-4e76023bcb25")
+		(property "Sheetname" "USB_ALIMENTACAO"
+			(at 205.74 287.02 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(face "Arial")
+					(size 5 5)
+					(thickness 1)
+					(bold yes)
+					(color 25 30 35 1)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Sheetfile" "USB_ALIMENTACAO.kicad_sch"
+			(at 205.74 342.9 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(face "Arial")
+					(size 2.5 2.5)
+					(thickness 0.375)
+					(color 95 100 105 1)
+				)
+				(justify top)
+			)
+		)
+		(instances
+			(project "DEVKIT_V1_PIC18F4550"
+				(path "/77ce6bdb-a858-4f8c-8062-7b6b036376f3"
+					(page "5")
 				)
 			)
 		)
