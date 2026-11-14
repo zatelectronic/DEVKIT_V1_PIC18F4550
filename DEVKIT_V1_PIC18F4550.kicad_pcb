@@ -415,18 +415,7 @@
 			(uuid "52052b3a-76f5-47af-83c3-b0e12201ccc4")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/user/OneDrive/DOC/KiCad/10.0/3dmodels/PIN HEADER 90 GRAUS/PinHeader_6X1_right.stp"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -90 -0 -90)
-			)
-		)
-		(model "C:/Users/user/OneDrive/DOC/KiCad/10.0/3dmodels/PIC KIT/Microchip - PICkit3.stp"
+		(model "${KIPRJMOD}/packages3D/Microchip - PICkit3.stp"
 			(offset
 				(xyz 7.5 -26.5 1.5)
 			)
@@ -435,6 +424,17 @@
 			)
 			(rotate
 				(xyz -0 -0 -90)
+			)
+		)
+		(model "${KIPRJMOD}/packages3D/PinHeader_6X1_right.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -90)
 			)
 		)
 	)
@@ -833,7 +833,7 @@
 			(uuid "283518a6-d477-42b7-ac9c-ee45a64c74fb")
 		)
 		(embedded_fonts no)
-		(model "${ZAT_3D}/USB TYPE C/USB4105GFA.STEP"
+		(model "${KIPRJMOD}/packages3D/USB4105GFA.STEP"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4470,7 +4470,7 @@
 			(uuid "218c591c-8551-4da6-940d-5ada8f707329")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x04_P2.54mm_Vertical.step"
+		(model "${KIPRJMOD}/packages3D/PinHeader_1x04_P2.54mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6930,7 +6930,7 @@
 			(uuid "a15f87b0-839a-44ff-a708-ce3427e96b93")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x04_P2.54mm_Vertical.step"
+		(model "${KIPRJMOD}/packages3D/PinHeader_1x04_P2.54mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
