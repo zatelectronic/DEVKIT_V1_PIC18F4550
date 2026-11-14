@@ -3656,25 +3656,23 @@
 		(dnp no)
 		(uuid "0d2f4537-8795-42b9-9795-b38e65f4e030")
 		(property "Reference" "J2"
-			(at 202.438 55.245 0)
+			(at 194.31 52.07 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "HDR_1x03_2.54mm"
-			(at 195.58 57.404 0)
+			(at 194.31 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
@@ -3711,25 +3709,23 @@
 			)
 		)
 		(property "Stock Code" "XXXXX"
-			(at 200.533 59.309 0)
+			(at 194.31 64.135 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Package Group" "TH"
-			(at 202.565 61.087 0)
+			(at 194.31 66.04 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(pin "1"
@@ -3762,7 +3758,7 @@
 		(dnp no)
 		(uuid "51312201-87b6-476c-a86c-d817b53f2834")
 		(property "Reference" "R4"
-			(at 182.753 47.244 90)
+			(at 182.88 46.355 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3772,7 +3768,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 182.753 48.895 90)
+			(at 182.88 48.26 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3815,7 +3811,7 @@
 			)
 		)
 		(property "Stock Code" "XXXXX"
-			(at 182.499 50.546 90)
+			(at 182.88 50.165 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3825,7 +3821,7 @@
 			)
 		)
 		(property "Package Group" "SMD"
-			(at 183.007 52.451 90)
+			(at 182.88 52.07 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3861,7 +3857,7 @@
 		(dnp no)
 		(uuid "83332272-1f40-47d9-9613-0bb3c6c1c875")
 		(property "Reference" "J1"
-			(at 114.935 54.61 0)
+			(at 104.14 42.545 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3872,7 +3868,7 @@
 			)
 		)
 		(property "Value" "HDR_1x06_2.54mm"
-			(at 107.061 56.388 0)
+			(at 104.14 44.45 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3916,7 +3912,7 @@
 			)
 		)
 		(property "Stock Code" "XXXXX"
-			(at 112.903 58.293 0)
+			(at 104.14 46.355 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3927,7 +3923,7 @@
 			)
 		)
 		(property "Package Group" "TH"
-			(at 114.681 60.198 0)
+			(at 104.14 48.26 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3988,14 +3984,13 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 172.72 54.6099 90)
+			(at 175.26 52.705 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -4067,7 +4062,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 91.44 55.8799 90)
+			(at 92.075 55.88 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4134,7 +4129,7 @@
 		(dnp no)
 		(uuid "dbcdf1ea-0c93-4622-87ae-be8cd0c79c73")
 		(property "Reference" "R5"
-			(at 182.88 62.23 90)
+			(at 182.88 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4144,7 +4139,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 182.88 63.881 90)
+			(at 182.88 64.135 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4187,7 +4182,7 @@
 			)
 		)
 		(property "Stock Code" "XXXXX"
-			(at 183.007 65.659 90)
+			(at 182.88 66.04 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4197,7 +4192,7 @@
 			)
 		)
 		(property "Package Group" "SMD"
-			(at 182.88 67.437 90)
+			(at 182.88 67.945 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4245,14 +4240,14 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 91.44 53.3399 90)
+			(at 92.075 53.34 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
@@ -4324,14 +4319,13 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 172.72 59.6899 90)
+			(at 175.26 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Footprint" ""

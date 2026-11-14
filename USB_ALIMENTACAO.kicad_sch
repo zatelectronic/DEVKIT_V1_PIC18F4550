@@ -3375,25 +3375,23 @@
 		(dnp no)
 		(uuid "0fe1b9c9-5cca-407c-8b26-77f6d18ba321")
 		(property "Reference" "R9"
-			(at 197.231 115.57 90)
+			(at 195.58 114.935 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "5k1"
-			(at 197.739 117.348 90)
+			(at 195.58 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
@@ -3430,25 +3428,23 @@
 			)
 		)
 		(property "Stock Code" "XXXXX"
-			(at 198.628 121.158 90)
+			(at 195.58 118.745 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Package Group" "SMD"
-			(at 197.993 119.253 90)
+			(at 195.58 120.65 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(pin "2"
@@ -3478,7 +3474,7 @@
 		(dnp no)
 		(uuid "0fe74127-d747-4e0b-bd2a-1fff0dd86142")
 		(property "Reference" "C7"
-			(at 216.408 90.805 0)
+			(at 213.995 88.9 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3489,7 +3485,7 @@
 			)
 		)
 		(property "Value" "10uF 16V"
-			(at 213.233 92.837 0)
+			(at 213.995 90.805 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3533,7 +3529,7 @@
 			)
 		)
 		(property "Stock Code" "XXXXX"
-			(at 214.503 94.742 0)
+			(at 213.995 92.71 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3544,7 +3540,7 @@
 			)
 		)
 		(property "Package Group" "SMD"
-			(at 215.773 96.647 0)
+			(at 213.995 94.615 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3658,25 +3654,23 @@
 		(dnp no)
 		(uuid "3d0a3a9d-59c6-473c-b718-9f064ac75402")
 		(property "Reference" "R6"
-			(at 147.701 74.803 90)
+			(at 146.05 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "0R"
-			(at 147.574 76.708 90)
+			(at 146.05 85.09 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
@@ -3713,25 +3707,23 @@
 			)
 		)
 		(property "Stock Code" "XXXXX"
-			(at 149.479 78.486 90)
+			(at 146.05 86.995 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Package Group" "SMD"
-			(at 148.209 80.264 90)
+			(at 146.05 88.9 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(pin "2"
@@ -5003,25 +4995,23 @@
 		(dnp no)
 		(uuid "c3ea1db3-a0df-4455-8320-05656e7e99ab")
 		(property "Reference" "R8"
-			(at 137.16 115.824 90)
+			(at 135.89 114.935 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "5k1"
-			(at 137.668 117.602 90)
+			(at 135.89 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
@@ -5058,25 +5048,23 @@
 			)
 		)
 		(property "Stock Code" "XXXXX"
-			(at 138.43 119.38 90)
+			(at 135.89 118.745 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Package Group" "SMD"
-			(at 137.922 121.158 90)
+			(at 135.89 120.65 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(pin "2"
@@ -5627,25 +5615,25 @@
 		(dnp no)
 		(uuid "ea6fe9c5-5f93-4574-a7ab-b83a3386acae")
 		(property "Reference" "LED2"
-			(at 186.055 96.774 90)
+			(at 184.785 96.52 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "LED_0805"
-			(at 184.023 98.806 90)
+			(at 184.785 98.425 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
@@ -5693,25 +5681,25 @@
 			)
 		)
 		(property "Stock Code" "XXXXX"
-			(at 185.293 102.616 90)
+			(at 184.785 100.33 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Package Group" "SMD"
-			(at 186.563 100.584 90)
+			(at 184.785 102.235 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(pin "1"
